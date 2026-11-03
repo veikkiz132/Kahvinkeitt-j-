@@ -32,4 +32,4 @@ async def kahvitauko(ctx, minuuttia: int = 5):
 
 
 # Korvaa TÄHÄN_SINUN_TOKENISI omalla botin tokenilla
-bot.run("TÄHÄN_SINUN_TOKENISI")
+bot.run("MTU2NjgzMDc0NTg2MjAyMTEzMw.GlYyPi.N_aTY73UoxBwAxHNk3WXoioWKjD0VE6JZgaXDA")
